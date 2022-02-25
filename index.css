@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: rgb(118, 235, 157);
+    background-color: rgb(193, 252, 213);
     font-size: 150%;
 }
 
@@ -44,5 +44,9 @@ body {
 
 .hobbies h1 {
     font-style: italic;
+    color: rgb(29, 145, 0);
+}
+
+.projects h1 {
     color: rgb(29, 145, 0);
 }
