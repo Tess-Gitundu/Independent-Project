@@ -2,15 +2,38 @@
     font-style: italic;
     text-align: center;
 }
+
 .myname h1 {
     padding: 20px;
     margin: 10px;
 }
+
 .myname h2 {
     padding: 20px;
     font-size: 350%;
 }
+
 body {
     background-color: rgb(118, 235, 157);
     font-size: 150%;
+}
+
+.about {
+    font-family: sans-serif;
+}
+
+.about h2 {
+    font-style: oblique;
+}
+
+.background {
+    font-style: oblique;
+}
+
+.job {
+    font-style: oblique;
+}
+
+.moringa {
+    font-style: italic;
 }
